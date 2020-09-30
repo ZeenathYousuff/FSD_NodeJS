@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b44f827d-defd-4320-9cdf-eb5a7c86ddbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/event.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event.js" beforeDir="false" afterPath="$PROJECT_DIR$/event.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601457471097</updated>
-      <workItem from="1601457472308" duration="7566000" />
+      <workItem from="1601457472308" duration="8903000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1601459518362</created>
@@ -84,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601465386362</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added new event functions">
+      <created>1601467221441</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601467221441</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,17 +102,18 @@
     <MESSAGE value="added some changes" />
     <MESSAGE value="added new changes" />
     <MESSAGE value="added new os functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new os functions" />
+    <MESSAGE value="added new event functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new event functions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601465384211">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601467219548">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601465384211" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601465399063">
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601467219548" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601467231443">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601465399063" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601467231443" />
     <state x="442" y="246" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601459459532">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
