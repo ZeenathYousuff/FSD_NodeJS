@@ -13,3 +13,6 @@ let time=os.uptime();
 console.log(`${release} ${platform} ${arc} ${hostName}`);
 console.log(`${freeMem} ${homeDir} ${networkInterfaces} ${version} ${type} ${time}`);
 
+e.addListener('messageLogged',function (){
+    console.log('messageLogged Event occurred');
+});
