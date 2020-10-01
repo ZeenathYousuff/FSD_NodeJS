@@ -8,7 +8,8 @@ function log(message){
 
 module.exports.log=log;*/
 
-/**********************USING INHERITANCE**************/
+/**********************USING INHERITANCE*************/
+
 
 const EventEmitter = require('events');
 class Logger extends EventEmitter
@@ -26,3 +27,5 @@ class Logger extends EventEmitter
 }
 
 module.exports=Logger;
+
+

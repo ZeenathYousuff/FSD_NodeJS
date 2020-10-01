@@ -2,13 +2,15 @@
 const emitter = new EventEmitter();
 
 const logger=require('./logger');
-logger.logger("Hiiii");
+logger.log("Hiiii");
 emitter.on('messageLogged',()=>{
     logger.logger('hello world');
 });
 console.log('event executed successfully');*/
 
 /*********USING INHERTANCE************/
+
+/*
 const EventEmitter = require('events');
 const Logger=require('./logger');
 const logger=new Logger();
@@ -21,4 +23,15 @@ logger.addListener('messageLogged',()=>
 {
     console.log('Handled messageLogged1 Event');
 });
-logger.log('=======END=======');
+logger.log('=======END=======');*/
+
+/*******************Reverse String********************/
+
+const EventEmitter = require('events');
+const ReverseString=require('./reverse_string');
+const rev=new ReverseString();
+rev.reverseString("WELCOME");
+rev.addListener('stringReverse',()=> {
+    console.log('Handled Reverse string Event');
+});
+console.log("END");
