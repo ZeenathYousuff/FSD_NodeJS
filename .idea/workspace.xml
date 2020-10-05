@@ -30,6 +30,8 @@
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
@@ -38,6 +40,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -62,11 +71,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601891404764</updated>
-      <workItem from="1601891405923" duration="310000" />
+      <workItem from="1601891405923" duration="522000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601891698260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601891698260" />
   </component>
 </project>
