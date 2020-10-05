@@ -29,7 +29,11 @@ const server = http.createServer((req, res) => {
             const message=message1[1];
             fs.writeFileSync('message.txt', message);
         });
+        res.statusCode=302;
+        console.log('Hi');
+        res.setHeader('Location','/');
         return res.end();
+
     }
 
     res.setHeader('Content-Type', 'text/html');

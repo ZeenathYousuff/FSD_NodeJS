@@ -8,18 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Form_Demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/message" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/message.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJSLib" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJS_1-10-2020" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pixogram" afterDir="false" />
@@ -42,6 +30,7 @@
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
     </list>
@@ -80,22 +69,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601887751958</updated>
-      <workItem from="1601887753108" duration="1536000" />
+      <workItem from="1601887753108" duration="1706000" />
     </task>
+    <task id="LOCAL-00001" summary="form data">
+      <created>1601889314314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601889314314</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="form data" />
+    <option name="LAST_COMMIT_MESSAGE" value="form data" />
   </component>
   <component name="WindowStateProjectService">
     <state x="403" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601888072800">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="403" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1601888072800" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601888842122">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601889309847">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601888842122" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601889309847" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601889320657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601889320657" />
     <state x="427" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601889286367">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
