@@ -32,6 +32,8 @@
       <change afterPath="$PROJECT_DIR$/../server_application/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Adding_Middleware" beforeDir="false" afterPath="$PROJECT_DIR$/../Adding_Middleware" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
@@ -78,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601967825896</updated>
-      <workItem from="1601967826938" duration="3738000" />
+      <workItem from="1601967826938" duration="4146000" />
     </task>
     <task id="LOCAL-00001" summary="movies api">
       <created>1601974806247</created>
@@ -96,5 +98,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="movies api" />
     <option name="LAST_COMMIT_MESSAGE" value="movies api" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1601974802234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601974802234" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601975156596">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601975156596" />
+    <state x="427" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601974759781">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="242" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601974759781" />
   </component>
 </project>

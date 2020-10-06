@@ -47,8 +47,8 @@ app.get('/api/movies/rating/:rating', (req, res) => {
 })
 
 app.post('/api/movies', (req, res) => {
-   // const { error } = validateMovie(req.body);
-  //  if (error) return res.status(400).send(error.details[0].message);
+    const { error } = validateMovie(req.body);
+    if (error) return res.status(400).send(error.details[0].message);
 
     const movie={
         id:movies.length+1,
@@ -67,8 +67,8 @@ app.listen(port, function(){
 
 function validateMovie(movie) {
     const schema = {
-        type: Joi.string().min(5).required()
-       // rating:Joi.number().min(1).max(5).required()
+        type: Joi.string().min(5).required(),
+        rating:Joi.number().min(1).max(5).required()
     };
     return Joi.validate(movie, schema);
 }
