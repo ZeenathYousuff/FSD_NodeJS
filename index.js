@@ -10,8 +10,41 @@ app.get('/api/generes', (req, res) => {
     res.send(generes);
 
 });
-app.post('/api/generes', (req, res) => {
 
+//path variable(:id)
+app.get('/api/generes/:id', (req, res) => {
+    let id=parseInt(req.params.id);
+    const genre = generes.find(c => c.id === id);
+    if (!genre)
+        return res.status(404).send(`The genre with the ID ${id} was not found.`);
+
+    // res.send(`the genere with ID ${id} found${genre}`);
+    res.send(genre);
+
+
+})
+
+//path variable(:name)
+app.get('/api/generes/name/:name',(req,res)=>{
+    let name = req.params.name;
+    const genre = generes.find(c=> c.name === name);
+
+    if (!genre)
+        return res.status(404).send(`The genre with the name ${name} was not found.`);
+
+    // res.send(`the genere with ID ${id} found${genre}`);
+    res.send(genre);
+
+
+})
+
+app.post('/api/generes', (req, res) => {
+    const genre={
+        id:generes.length+1,
+        name:req.body.name
+    };
+    generes.push(genre);
+    res.send(genre);
 
 });
 let port=process.env.PORT || 3000;
