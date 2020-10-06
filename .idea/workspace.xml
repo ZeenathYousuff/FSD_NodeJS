@@ -14,6 +14,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/is-ci" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/is-ci.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/is-ci.ps1" afterDir="false" />
@@ -1290,6 +1291,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -1313,7 +1321,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601957706350</updated>
-      <workItem from="1601957707441" duration="289000" />
+      <workItem from="1601957707441" duration="535000" />
     </task>
     <servers />
   </component>
@@ -1321,6 +1329,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601958148550">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601958148550" />
     <state x="427" y="242" width="458" height="197" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601957922985">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
