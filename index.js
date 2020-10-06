@@ -1,12 +1,13 @@
+const uuid = require('uuid-random');
 const Joi = require('joi');
 const express=require('express');
 const app=express();
 app.use(express.json());
 
 let movies=[
-    {id:1,type: 'Harry Potter',rating:3},
-    {id:2,type: 'Home Alone',rating: 4},
-    {id:3,type: 'Titanic',rating: 4}
+    {id:uuid(),type: 'Harry Potter',rating:3},
+    {id:uuid(),type: 'Home Alone',rating: 4},
+    {id:uuid(),type: 'Titanic',rating: 4}
 ];
 
 app.get('/api/movies',(req,res)=>{
@@ -15,7 +16,7 @@ app.get('/api/movies',(req,res)=>{
 
 //GET movies by id
 app.get('/api/movies/:id', (req, res) => {
-    let id=parseInt(req.params.id);
+    let id=req.params.id;
     const movie = movies.find(c => c.id === id);
     if (!movie)
         return res.status(404).send(`The movie with the ID ${id} was not found.`);
@@ -62,7 +63,7 @@ app.post('/api/movies', (req, res) => {
 
 //PUT movie with id
 app.put('/api/movies/:id',(req,res) => {
-    let id=parseInt(req.params.id);
+    let id=req.params.id;
     const movie = movies.find(c=> c.id == id);
 
     if(!movie)
@@ -79,7 +80,7 @@ app.put('/api/movies/:id',(req,res) => {
 //DELETE movie
 //DELETE GENRE
 app.delete('/api/movies/:id', (req, res) => {
-    const movie = movies.find(c => c.id === parseInt(req.params.id));
+    const movie = movies.find(c => c.id === req.params.id);
     if (!movie) {
         return res.status(404).send(`The movie with the id ${req.params.id} was not found.`);
 
