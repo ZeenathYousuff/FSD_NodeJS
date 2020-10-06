@@ -36,6 +36,7 @@
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
     </list>
@@ -80,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601967825896</updated>
-      <workItem from="1601967826938" duration="4146000" />
+      <workItem from="1601967826938" duration="5844000" />
     </task>
     <task id="LOCAL-00001" summary="movies api">
       <created>1601974806247</created>

@@ -38,11 +38,10 @@ app.get('/api/movies/type/:type', (req, res) => {
 //GET movies by rating
 app.get('/api/movies/rating/:rating', (req, res) => {
     let rating=parseInt(req.params.rating);
-    const movie = movies.find(c => c.rating === rating);
+    const movie = movies.filter(c => c.rating >= rating);
     if (!movie)
         return res.status(404).send(`The movie with the Rating ${rating} was not found.`);
 
-    // res.send(`the genere with ID ${id} found${genre}`);
     res.send(movie);
 })
 
@@ -59,6 +58,22 @@ app.post('/api/movies', (req, res) => {
     res.send(movie);
 
 });
+
+app.put('/api/movies/:id',(req,res) => {
+    let id=parseInt(req.params.id);
+    const movie = movies.find(c=> c.id == id);
+
+    if(!movie)
+        return res.status(404).send(`The movie with the id ${id} was not found.`);
+
+    const { error } = validateMovie(req.body);
+    if (error) return res.status(400).send(error.details[0].message);
+
+    movie.type = req.body.type;
+    movie.rating = req.body.rating;
+    res.send(movie);
+})
+
 
 let port=process.env.PORT || 5000;
 app.listen(port, function(){
