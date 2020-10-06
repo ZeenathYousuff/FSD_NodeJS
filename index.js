@@ -45,6 +45,7 @@ app.get('/api/movies/rating/:rating', (req, res) => {
     res.send(movie);
 })
 
+//POST movie
 app.post('/api/movies', (req, res) => {
     const { error } = validateMovie(req.body);
     if (error) return res.status(400).send(error.details[0].message);
@@ -59,6 +60,7 @@ app.post('/api/movies', (req, res) => {
 
 });
 
+//PUT movie with id
 app.put('/api/movies/:id',(req,res) => {
     let id=parseInt(req.params.id);
     const movie = movies.find(c=> c.id == id);
@@ -73,6 +75,19 @@ app.put('/api/movies/:id',(req,res) => {
     movie.rating = req.body.rating;
     res.send(movie);
 })
+
+//DELETE movie
+//DELETE GENRE
+app.delete('/api/movies/:id', (req, res) => {
+    const movie = movies.find(c => c.id === parseInt(req.params.id));
+    if (!movie) {
+        return res.status(404).send(`The movie with the id ${req.params.id} was not found.`);
+
+    }
+    const index=movies.indexOf(movie);
+    movies.splice(index, 2);
+    res.send(movie);
+});
 
 
 let port=process.env.PORT || 5000;
