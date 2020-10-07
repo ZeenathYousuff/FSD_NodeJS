@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a81d85a9-4283-4e1a-9862-263c8577c696" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/01-10-2020-NodeJSHTTP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/route/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/add-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJSLib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS_1-10-2020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pixogram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Routing_Demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleNodeJS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleRegistration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/Server_App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employeeApp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/server_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adding_Middleware" beforeDir="false" afterPath="$PROJECT_DIR$/../Adding_Middleware" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/lib/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/lib/ref.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/lib/schemas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iVFOBthNkQ74a2A3FlWhbaqvmb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ZeenathMY\WebstormProjects\Express_Routing_Demo\route" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a81d85a9-4283-4e1a-9862-263c8577c696" name="Default Changelist" comment="" />
+      <created>1601984818500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601984818500</updated>
+      <workItem from="1601984819679" duration="2028000" />
+      <workItem from="1602042516484" duration="1821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601985687318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601985687318" />
+  </component>
+</project>
