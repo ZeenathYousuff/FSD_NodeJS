@@ -9,12 +9,6 @@
       <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/add-product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shop.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJSLib" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJS_1-10-2020" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pixogram" afterDir="false" />
@@ -40,6 +34,9 @@
       <change beforePath="$PROJECT_DIR$/../Adding_Middleware" beforeDir="false" afterPath="$PROJECT_DIR$/../Adding_Middleware" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/shop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/index.js" afterDir="false" />
@@ -105,17 +102,37 @@
       <option name="presentableId" value="Default" />
       <updated>1601984818500</updated>
       <workItem from="1601984819679" duration="2028000" />
-      <workItem from="1602042516484" duration="2149000" />
+      <workItem from="1602042516484" duration="5041000" />
     </task>
+    <task id="LOCAL-00001" summary="added HTML and static files">
+      <created>1602045465025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602045465025</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added HTML and static files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HTML and static files" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601985687318">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602045461305">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601985687318" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602045461305" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602045548113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602045548113" />
+    <state x="427" y="241" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602045424139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="241" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602045424139" />
   </component>
 </project>
