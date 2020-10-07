@@ -10,6 +10,7 @@ function validate() {
     }
     else{
         alert("Added SuccessFully")
+        window.location = '/';
     }
 
 
