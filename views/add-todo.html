@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add-ToDo</title>
+    <link rel="stylesheet" href="/css/add-to.css">
+    <script type="text/javascript" src="/JS/validation.js"></script>
+</head>
+<body>
+<form class="todo-form" action="/admin/add-todo" method="POST">
+        <div>
+            <label for="name">To-Do Name:</label>
+            <input type="text" name="name" id="name" min="5" required>
+        </div>
+        <div>
+            <label for="id">To-Do ID:</label>
+            <input type="number" name="id" id="id" required>
+        </div>
+        <div class="checkbox">
+            <label>To-Do Status:</label>
+            <label><input type="checkbox" value="" id="status">Completed</label>
+        </div>
+    <button type="button" onclick="validate()">Submit</button>
+</form>
+</body>
+</html>

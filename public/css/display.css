@@ -1,0 +1,22 @@
+
+
+
+/* Style the list items */
+ol li {
+
+
+    padding: 12px 8px 12px 40px;
+    background: #eee;
+    font-size: 18px;
+
+}
+
+/* Set all odd list items to a different color (zebra-stripes) */
+ol li:nth-child(odd) {
+    background: #f9f9f9;
+}
+
+/* Darker background-color on hover */
+ol li:hover {
+    background: #ddd;
+}

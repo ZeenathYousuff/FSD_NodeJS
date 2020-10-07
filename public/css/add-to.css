@@ -1,0 +1,16 @@
+.todo-form{
+    background-color: antiquewhite;
+    color: cadetblue;
+}
+
+div{
+    margin: 30px;
+}
+
+button{
+    margin-left: 100px;
+    width: 150px;
+    height: 35px;
+    background-color: brown;
+    color: #fff;
+}
