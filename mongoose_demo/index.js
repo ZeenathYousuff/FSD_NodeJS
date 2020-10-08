@@ -17,9 +17,9 @@ const studentSchema=new mongoose.Schema(
 
 const Student=mongoose.model('Student',studentSchema);
 /*let student=new Student({
-    firstName: 'Marry',
-    lastName: 'Public',
-    email: 'marry@email.com'
+    firstName: 'Zeenath',
+    lastName: 'Yousuff',
+    email: 'zeen@email.com'
 });
 async function createStudent()
 {
@@ -77,7 +77,8 @@ findStudentByID('5f7ea261c26dd42a7856fa28').then(()=>{
 
 async function findStudentByfirstName(fname)
 {
-    await Student.find({firstName:fname}).select('firstName').sort('firstName').then(function (result) {
+    //await Student.find({firstName:fname}).select('firstName').sort('firstName').then(function (result) {
+    await Student.find().select('firstName').sort('firstName').then(function (result) {
         console.log('Student founddddddd:',result);
 
     }).catch(error => {
