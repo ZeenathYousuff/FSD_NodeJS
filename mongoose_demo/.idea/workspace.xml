@@ -8,29 +8,11 @@
       <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/.idea/Assignment_ToDoApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/public/JS/validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/public/css/add-to.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/public/css/display.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/public/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/routes/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/routes/display.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/routes/public.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/util/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/views/add-todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/views/display.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/views/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment_ToDoApp/views/public.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/Exercise1-Movie_api.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Express_Routing_Demo/.idea/Express_Routing_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Express_Routing_Demo/routes/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Express_Routing_Demo/routes/shop.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Express_Routing_Demo/views/404.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJSLib" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJS_1-10-2020" afterDir="false" />
@@ -46,15 +28,6 @@
       <change afterPath="$PROJECT_DIR$/../Server_App/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server_App/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../employeeApp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mongo_demo/.idea/mongo_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mongo_demo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mongoose_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/aws.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/jsLibraryMappings.xml" afterDir="false" />
@@ -67,8 +40,8 @@
       <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Express_Routing_Demo/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/route/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Express_Routing_Demo/routes/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/route/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Express_Routing_Demo/routes/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/route/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/route/shop.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/views/add-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Express_Routing_Demo/views/add-product.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/views/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Express_Routing_Demo/views/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" afterDir="false" />
@@ -84,6 +57,8 @@
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,11 +103,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602132288249</updated>
-      <workItem from="1602132289437" duration="1595000" />
+      <workItem from="1602132289437" duration="2949000" />
     </task>
+    <task id="LOCAL-00001" summary="mongoose demo">
+      <created>1602135509439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602135509439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mongoose demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="mongoose demo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602135505061">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602135505061" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602135561379">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602135561379" />
+    <state x="417" y="241" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602135515451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="417" y="241" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602135515451" />
   </component>
 </project>
