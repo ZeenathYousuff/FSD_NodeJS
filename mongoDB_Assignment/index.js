@@ -52,12 +52,51 @@ async function readData() {
         course.save();
         rl.close();
     });
-
 }
 
 
+/*
 readData().then(function (){
     console.log('successfully done');
 }).catch(reason => {
     console.log('failed',reason.message);
+});*/
+
+
+async function findCourse(name,author,isPublished,price)
+{
+    //await Student.find({firstName:fname}).select('firstName').sort('firstName').then(function (result) {
+    await Course.find({ 'isPublished':true}).select('name author price').sort('-price').where('price').gte(15).then(function (result) {
+        console.log('Student founddddddd:',result);
+
+    }).catch(error => {
+        console.log('Error');
+    });
+}
+
+async function getCourses()
+{
+    let result = await Course.find();
+    console.log('displaying Courses',result);
+    findCourse(result.name,result.author,result.isPublished,result.price).then(function(){
+        console.log('called run function');
+    }).catch(error => {
+        console.log(error.message);
+    })
+}
+
+async function run()
+{
+    getCourses().then(function(){
+        console.log('called run function');
+    }).catch(error => {
+        console.log(error.message);
+    })
+}
+run().then(function () {
+    console.log('finished running');
+
+}).catch(error => {
+    console.log(error.message);
+
 });
