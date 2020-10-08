@@ -66,8 +66,12 @@ readData().then(function (){
 async function findCourse(name,author,isPublished,price)
 {
     //await Student.find({firstName:fname}).select('firstName').sort('firstName').then(function (result) {
-    await Course.find({ 'isPublished':true}).select('name author price').sort('-price').where('price').gte(15).then(function (result) {
-        console.log('Student founddddddd:',result);
+    await Course.find({ 'isPublished':true})
+        .select('name author price')
+        .sort('-price')
+        .where('price').gte(15)
+        .then(function (result) {
+        console.log('Course founddddddd:',result);
 
     }).catch(error => {
         console.log('Error');
