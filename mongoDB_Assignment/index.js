@@ -1,71 +1,63 @@
+const readline = require('readline');
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/play-ground',{ useNewUrlParser: true , useUnifiedTopology: true} )
-    .then(function(){
-        console.log('Connected to Mongo');
-    })
-    .catch(reason => {
-        console.log('Connection is not Unsuccessful..!',reason.message);
-    })
+let rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+//step-1
+// connect with db
+mongoose.connect('mongodb://localhost/play-ground', {
+    useUnifiedTopology: true,
+    useNewUrlParser: true
+}).then(function () {
+}).catch(reason => {
+    console.log('error connecting.');
+});
 
-const courseSchema=new mongoose.Schema(
-    {
-        name:String,
-        author:String,
-        tags:[String],
-        date:{type: Date,default:Date.now()},
-        isPublished:Boolean,
-        price:Number
+//step-2
+//create schema
+const courseSchema = new mongoose.Schema({
+    name: String,
+    author: String,
+    tags: [String],
+    date: {type: Date, default: Date.now()},
+    isPublished: Boolean,
+    price: Number
+});
+
+
+const Course = mongoose.model('Course', courseSchema);
+course = new Course();
+let answers = [];
+let tempTags = [];
+let name = '';
+let author = '';
+let published = false;
+let price='';
+
+async function readData() {
+    rl.question('name? author? tags? published?price? ', answer => {
+        answers = answer.split(',');
+        console.log(answers);
+        name = answers[0];
+        author = answers[1];
+        tempTags= answers[2].split(' ');
+        published=answers[3]
+        price=answers[4];
+        course.set({name: name});
+        course.set({author: author});
+        course.set( {tags: tempTags});
+        course.set( {isPublished: published});
+        course.set({price: parseInt(price)});
+        course.save();
+        rl.close();
     });
-const Course=mongoose.model('Course',courseSchema);
-let course=new Course();
-
-    course.set({
-        name:"Computer Science",
-        author:"Charles Babbage",
-        tags:["computer","binary","secondary"],
-        isPublished:true,
-        price:250.00
-    })
-
-
-async function createCourse()
-    {
-        let result = await course.save();
-
-        console.log(result);
-    }
-
-let i = 3;
-do{
-
-    createCourse().then(function (){
-        console.log('Course is created: ');
-
-    }).catch(error => {
-        console.log('Error creating student:',error.message);
-    });i--;
-}while (i>0)
-
-
-async function getCourse()
-{
-    let result = await Course.find();
-    console.log('displaying Courses',result);
 
 }
 
-async function run()
-{
-    getCourse().then(function(){
-        console.log('called run function');
-    }).catch(error => {
-        console.log(error.message);
-    })
-}
-run().then(function () {
-    console.log('finished running');
 
-}).catch(error => {
-    console.log(error.message);
-
+readData().then(function (){
+    console.log('successfully done');
+}).catch(reason => {
+    console.log('failed',reason.message);
 });
