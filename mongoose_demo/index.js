@@ -41,7 +41,7 @@ async function getStudents()
     console.log('displaying students',result);
     console.log('called getStudents()');
 }
-
+/*
 async function run()
 {
     getStudents().then(function(){
@@ -56,4 +56,38 @@ run().then(function () {
 }).catch(error => {
     console.log(error.message);
 
+});*/
+
+async function findStudentByID(id)
+{
+    await Student.findById(id).then(function (result) {
+        console.log('Student found:',result);
+
+    }).catch(error => {
+        console.log('Error finding student with ID: ',id);
+    });
+}
+
+findStudentByID('5f7ea261c26dd42a7856fa28').then(()=>{
+    console.log('finished finding student')
+
+}).catch(reason => {
+    console.log('Error with finding student')
+});
+
+async function findStudentByfirstName(fname)
+{
+    await Student.find({firstName:fname}).select('firstName').sort('firstName').then(function (result) {
+        console.log('Student founddddddd:',result);
+
+    }).catch(error => {
+        console.log('Error finding student with Name: ',fname);
+    });
+}
+
+findStudentByfirstName('Marry').then(()=>{
+    console.log('finished finding student')
+
+}).catch(reason => {
+    console.log('Error with finding student')
 });
