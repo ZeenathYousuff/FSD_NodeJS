@@ -106,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602146719544</updated>
-      <workItem from="1602146720583" duration="5235000" />
+      <workItem from="1602146720583" duration="5828000" />
     </task>
     <task id="LOCAL-00001" summary="mondo DB course exercise">
       <created>1602148442740</created>
@@ -115,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602148442740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="monngo readline">
+      <created>1602154789060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602154789060</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,17 +130,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mondo DB course exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="mondo DB course exercise" />
+    <MESSAGE value="monngo readline" />
+    <option name="LAST_COMMIT_MESSAGE" value="monngo readline" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602149643161">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1602149643161" />
-    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1602148440579">
+    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1602154784901">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602148440579" />
+    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602154784901" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1602146787176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -142,10 +150,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602154375007" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602148727930">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602154798482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602148727930" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602154798482" />
     <state x="193" y="69" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602149627949">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

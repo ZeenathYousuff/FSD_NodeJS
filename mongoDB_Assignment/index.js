@@ -39,16 +39,16 @@ async function readData() {
     rl.question('name? author? tags? published?price? ', answer => {
         answers = answer.split(',');
         console.log(answers);
-        name = answers[0];
-        author = answers[1];
-        tempTags= answers[2].split(' ');
-        published=answers[3]
-        price=answers[4];
-        course.set({name: name});
-        course.set({author: author});
-        course.set( {tags: tempTags});
-        course.set( {isPublished: published});
-        course.set({price: parseInt(price)});
+       // name = answers[0];
+       // author = answers[1];
+       // tempTags= answers[2].split(' ');
+      //  published=answers[3]
+      //  price=answers[4];
+        course.set({name: answers[0]});
+        course.set({author: answers[1]});
+        course.set( {tags: answers[2].split(' ')});
+        course.set( {isPublished: answers[3]});
+        course.set({price: parseInt(answers[4])});
         course.save();
         rl.close();
     });
