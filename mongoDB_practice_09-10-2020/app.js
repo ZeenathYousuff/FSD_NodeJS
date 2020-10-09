@@ -58,8 +58,6 @@ updateCourse('5f7ff2408dae152e60c91de8').then(()=>{
 {
     const result = await Course.update({ author: 'Mosh' }, {
         $set: { name: 'Learning Cricket'}
-
-
     });
     console.log('course update success');
 }
@@ -83,3 +81,36 @@ updateCourse().then(() =>{
 } );
 
 /******************************************************/
+
+/**************Find first and then update(using options:new)*************/
+
+//find first and update
+async function updateCourse(id)
+{
+    let course = await Course.findOneAndUpdate({_id: id}, {
+        $set: {name: 'Learning Angular', author: 'SP.Balagurus'}
+    },{new:true});
+    console.log(course);
+}
+
+updateCourse('5f7ff2408dae152e60c91de2').then(() => {
+    console.log('success');
+})
+
+/***************find and Delete************/
+async function removeCourse()
+{
+    /*  const course =Course.deleteOne({_id : id},() => {
+          console.log('delete course success',course);
+      });*/
+    /*  const course = await Course.findByIdAndRemove( {_id:id})
+      {
+          console.log(course);
+      }
+  */
+    const result = await Course.deleteMany({author:'Mary'});
+    console.log(result);
+}
+removeCourse().then(() =>{
+    console.log('success');
+} );
