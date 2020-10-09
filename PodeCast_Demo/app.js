@@ -26,7 +26,7 @@ var i = 3;
 
 ////***************Create podcast***********************/////
 async function readData() {
-    rl.question('name? age? status? tags? ', answer => {
+    rl.question('name? age? status? groups? ', answer => {
         answers = answer.split(',');
         console.log(answers);
         podcast.set({name: answers[0]});
