@@ -216,7 +216,23 @@ updatePodcast().then(() =>{
 
 /********************************************************/
 
-/*****************Find and Delete************************/
+/*********************Find By Id and remove************/
+async function removePodcastById(id)
+{
+    const podcast = await Podcast.findByIdAndRemove( {_id:id})
+    {
+        console.log(podcast);
+    }
+}
+
+removePodcastById('5f802b3296fa1816acc6dade').then(()=>{
+    console.log('Delete success');
+})
+
+
+/***************************************************/
+
+/*****************Find and Delete Many************************/
 async function removePodcast()
 {
 
