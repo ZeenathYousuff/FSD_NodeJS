@@ -28,7 +28,6 @@
       <change afterPath="$PROJECT_DIR$/../Server_App/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server_App/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../employeeApp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/aws.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/jsLibraryMappings.xml" afterDir="false" />
@@ -61,8 +60,7 @@
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoose_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoose_demo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602215425074</updated>
       <workItem from="1602215426188" duration="337000" />
-      <workItem from="1602215789218" duration="4281000" />
+      <workItem from="1602215789218" duration="6468000" />
     </task>
     <task id="LOCAL-00001" summary="mongoose expressions">
       <created>1602217163262</created>
@@ -117,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602217163262</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updating the mongooseDB">
+      <created>1602221075363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602221075363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,24 +130,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mongoose expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="mongoose expressions" />
+    <MESSAGE value="updating the mongooseDB" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating the mongooseDB" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1602217159762">
+    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1602221074342">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602217159762" />
+    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602221074342" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1602219826003">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602219826003" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602217190287">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602221094193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602217190287" />
-    <state x="418" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602217180588">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602221094193" />
+    <state x="418" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602221085086">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="418" y="242" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602217180588" />
+    <state x="418" y="242" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602221085086" />
   </component>
 </project>
