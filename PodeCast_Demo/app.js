@@ -163,7 +163,7 @@ findPodcastByStatus("Allowed").then(()=>{
 
 async function findPodcastByGroup(group)
 {
-    await Podcast.find({group: group}).then(function (result) {
+    await Podcast.find({groups: group}).then(function (result) {
         console.log('Podcast found with group:',result);
 
     }).catch(error => {
@@ -171,7 +171,7 @@ async function findPodcastByGroup(group)
     });
 }
 
-findPodcastByGroup(['Politics','Sports']).then(()=>{
+findPodcastByGroup('Politics').then(()=>{
     console.log(`finished finding by group`)
 
 }).catch(reason => {

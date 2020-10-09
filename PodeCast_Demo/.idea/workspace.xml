@@ -17,12 +17,6 @@
       <change afterPath="$PROJECT_DIR$/../NodeJSLib" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJS_1-10-2020" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pixogram" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Routing_Demo" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SampleNodeJS" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SampleRegistration" afterDir="false" />
@@ -61,6 +55,8 @@
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" afterDir="false" />
@@ -109,11 +105,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602233798874</updated>
-      <workItem from="1602233799924" duration="4430000" />
+      <workItem from="1602233799924" duration="4579000" />
     </task>
+    <task id="LOCAL-00001" summary="Podcast Assignment">
+      <created>1602238251091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602238251091</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Podcast Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Podcast Assignment" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602238249976">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602238249976" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602238259663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602238259663" />
   </component>
 </project>
