@@ -28,13 +28,6 @@
       <change afterPath="$PROJECT_DIR$/../Server_App/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server_App/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server_App/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/vidlyRoute.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../employeeApp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/aws.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -67,6 +60,8 @@
       <change beforePath="$PROJECT_DIR$/../PodeCast_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PodeCast_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/vidlyRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/vidlyRoute.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_practice_09-10-2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_practice_09-10-2020/.idea/workspace.xml" afterDir="false" />
@@ -96,7 +91,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exercise1-Movie_api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -119,17 +114,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602243368638</updated>
-      <workItem from="1602243369726" duration="2605000" />
+      <workItem from="1602243369726" duration="3365000" />
+      <workItem from="1602474918014" duration="413000" />
     </task>
+    <task id="LOCAL-00001" summary="vidly mongoose with GET and POSt">
+      <created>1602246396814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602246396814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vidly mongoose with GET and POSt" />
+    <option name="LAST_COMMIT_MESSAGE" value="vidly mongoose with GET and POSt" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602246391602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602246391602" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1602245315283">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602245315283" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602246411842">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602246411842" />
   </component>
 </project>
