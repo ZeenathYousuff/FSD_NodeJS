@@ -19,12 +19,12 @@ router.post('/', (req, res, next) => {
     res.redirect('/user/print-name');
 });
 
-function validateName(name) {
+function validateName(username) {
+    console.log(username);
     const schema = {
-        name: Joi.string().min(5).required()
+        username: Joi.string().min(5).required()
     };
-
-    return Joi.validate(name, schema);
+    return Joi.validate(username, schema);
 }
 
 module.exports.routes = router;
