@@ -28,7 +28,7 @@
       <change afterPath="$PROJECT_DIR$/../Server_App/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server_App/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server_App/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/404.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subviews/error.pug" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../employeeApp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/aws.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -66,8 +66,6 @@
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Vidly_Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vidly_Exercise/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" afterDir="false" />
@@ -119,18 +117,30 @@
       <updated>1602497379738</updated>
       <workItem from="1602497380862" duration="2001000" />
       <workItem from="1602501287011" duration="2215000" />
-      <workItem from="1602559510517" duration="1556000" />
+      <workItem from="1602559510517" duration="2279000" />
     </task>
+    <task id="LOCAL-00001" summary="added pug">
+      <created>1602563438073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602563438073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added pug" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pug" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1602502099992">
+    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1602563437366">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602502099992" />
+    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602563437366" />
     <state width="1285" height="175" key="GridCell.Tab.0.bottom" timestamp="1602497504601">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
@@ -147,10 +157,14 @@
       <screen x="35" y="27" width="1331" height="741" />
     </state>
     <state width="1285" height="175" key="GridCell.Tab.0.right/35.27.1331.741@35.27.1331.741" timestamp="1602497504601" />
-    <state x="452" y="258" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602502034818">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602563470023">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="452" y="258" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602502034818" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602563470023" />
+    <state x="452" y="258" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602563455132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="258" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602563455132" />
     <state x="505" y="308" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog/35.27.1331.741@35.27.1331.741" timestamp="1602500943795" />
   </component>
 </project>
