@@ -28,7 +28,10 @@
       <change afterPath="$PROJECT_DIR$/../Server_App/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server_App/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server_App/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subviews/error.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/books.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/add-product.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/layouts/main-layout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shop.pug" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../employeeApp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/aws.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server_application/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -61,11 +64,19 @@
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/routes/name.js" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/routes/name.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/views/user.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/views/user.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PodeCast_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PodeCast_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/404.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/404.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Vidly_Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vidly_Exercise/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" afterDir="false" />
@@ -89,7 +100,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -117,7 +127,7 @@
       <updated>1602497379738</updated>
       <workItem from="1602497380862" duration="2001000" />
       <workItem from="1602501287011" duration="2215000" />
-      <workItem from="1602559510517" duration="2279000" />
+      <workItem from="1602559510517" duration="11353000" />
     </task>
     <task id="LOCAL-00001" summary="added pug">
       <created>1602563438073</created>
@@ -126,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602563438073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added pug">
+      <created>1602564212765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602564212765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,10 +154,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="added pug" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1602563437366">
+    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1602564212079">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602563437366" />
+    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602564212079" />
     <state width="1285" height="175" key="GridCell.Tab.0.bottom" timestamp="1602497504601">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
@@ -157,10 +174,10 @@
       <screen x="35" y="27" width="1331" height="741" />
     </state>
     <state width="1285" height="175" key="GridCell.Tab.0.right/35.27.1331.741@35.27.1331.741" timestamp="1602497504601" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602563470023">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602564222976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602563470023" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602564222976" />
     <state x="452" y="258" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602563455132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
