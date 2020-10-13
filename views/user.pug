@@ -10,10 +10,9 @@ html(lang='en')
     body
         main
             if (names.length > 0)
-
-                    each name in names
-                        ul
-                            li #{name.username}
+                each name in names
+                    ul
+                        li #{name.username}
 
             else
                 h1 No names are entered

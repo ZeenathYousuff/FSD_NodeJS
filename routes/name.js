@@ -1,6 +1,7 @@
 const path = require('path');
 const adminData = require('../routes/user');
 const express = require('express');
+const Joi = require('joi');
 //const rootDir = require('../util/path');
 const router = express.Router();
 const names=[];
@@ -12,9 +13,19 @@ router.get('/', (req, res, next) => {
 });
 
 router.post('/', (req, res, next) => {
+    const { error } = validateName(req.body);
+    if (error) return res.status(400).send(error.details[0].message);
     names.push({username:req.body.username})
     res.redirect('/user/print-name');
 });
+
+function validateName(name) {
+    const schema = {
+        name: Joi.string().min(5).required()
+    };
+
+    return Joi.validate(name, schema);
+}
 
 module.exports.routes = router;
 module.exports.names = names;
