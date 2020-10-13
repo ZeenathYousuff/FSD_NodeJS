@@ -10,11 +10,10 @@ html(lang='en')
     body
         main
             if (names.length > 0)
-                .grid
+
                     each name in names
-                        article.card.product-item
-                            ul.card__header
-                                li.product__title #{name.username}
+                        ul
+                            li #{name.username}
 
             else
                 h1 No names are entered
