@@ -1,0 +1,17 @@
+<%- include('includes/head.ejs') %>
+<link rel="stylesheet" href="/css/product.css">
+</head>
+<body>
+    <main>
+        <% if (names.length > 0) { %>
+            <% for (let name of names) { %>
+                <ul>
+                    <li><%= name.username %></li>
+                </ul>
+
+            <% } %>
+        <% } else { %>
+            <h1>No names added</h1>
+        <% } %>
+    </main>
+<%- include('includes/end.ejs') %>

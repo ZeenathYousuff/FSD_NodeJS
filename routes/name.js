@@ -1,15 +1,16 @@
+/*
 const path = require('path');
 const adminData = require('../routes/user');
 const express = require('express');
 const Joi = require('joi');
-//const rootDir = require('../util/path');
+const rootDir = require('../util/path');
 const router = express.Router();
 const names=[];
 
 
 router.get('/', (req, res, next) => {
     //res.sendFile(path.join(rootDir, 'views', 'add-product.html'));
-    res.render('name',{pageTitle:"Add Name"})
+    res.render('name',{pageTitle:"Add Name", path: '/'})
 });
 
 router.post('/', (req, res, next) => {
@@ -28,4 +29,14 @@ function validateName(username) {
 }
 
 module.exports.routes = router;
-module.exports.names = names;
+module.exports.names = names;*/
+
+const path = require('path');
+const express = require('express');
+const userController = require('../Controllers/user');
+const router = express.Router();
+// /admin/add-product => GET
+router.get('/', userController.getUser);
+// /admin/add-product => POST
+router.post('/', userController.postUsers);
+module.exports = router;
