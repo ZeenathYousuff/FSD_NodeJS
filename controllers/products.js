@@ -28,15 +28,30 @@ exports.getAddProduct=(req, res)=>
     res.render('add-product', {pageTitle: 'Add Product', path: '/admin/add-product'});
 }
 exports.postAddProduct = (req, res) => {
-    const product = new Product(req.body.title);
+    const product = new Product(req.body.title,req.body.price,req.body.desc);
     product.save();
     res.redirect('/');
 };
 exports.getProducts = (req, res) => {
-    const products = Product.fetchAll();
-    res.render('shop', {prods: products, pageTitle: 'Shop', path: '/'});
+   // const products = Product.fetchAll();
+   // res.render('shop', {prods: products, pageTitle: 'Shop', path: '/'});
+    Product.fetchAll(products => {
+        res.render('shop', {
+            prods: products,
+            pageTitle: 'Shop',
+            path: '/'
+        });
+    });
 };
 
 exports.getHome = (req, res) => {
     res.render('home', {pageTitle: 'Home', path: '/'});
+};
+
+exports.removeProd = (req, res) => {
+
+    Product.removeProduct();
+    res.render('deleteProduct', {pageTitle: 'Delete', path: '/remove'});
+   //
+  // res.redirect('/deleteProduct');
 };
