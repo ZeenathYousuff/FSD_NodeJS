@@ -24,14 +24,6 @@
       <change afterPath="$PROJECT_DIR$/../Implementing-ejs/views/includes/nav.ejs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJSLib" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NodeJS_1-10-2020" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/404.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/includes/end.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/includes/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/includes/nav.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/name.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/user.ejs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pixogram" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Routing_Demo" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SampleNodeJS" afterDir="false" />
@@ -84,16 +76,7 @@
       <change beforePath="$PROJECT_DIR$/../Implementing-ejs/views/404.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/views/404.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Implementing-ejs/views/add-product.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/views/add-product.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Implementing-ejs/views/shop.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/views/shop.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/name.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/name.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/404.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/404.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/name.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/name.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/user.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/user.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PodeCast_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PodeCast_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
@@ -152,7 +135,7 @@
       <updated>1602569464348</updated>
       <workItem from="1602569465420" duration="10994000" />
       <workItem from="1602646501133" duration="1210000" />
-      <workItem from="1602658276205" duration="4117000" />
+      <workItem from="1602658276205" duration="5110000" />
     </task>
     <task id="LOCAL-00001" summary="Added PUG Assignment">
       <created>1602574988639</created>
@@ -175,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602585080112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added ejs and controllers">
+      <created>1602666046229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602666046229</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,17 +174,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added PUG Assignment" />
     <MESSAGE value="Added Layouts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Layouts" />
+    <MESSAGE value="added ejs and controllers" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ejs and controllers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602658639874">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="414" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1602658639874" />
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602585076275">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602666044126">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602585076275" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602666044126" />
     <state x="121" y="50" key="DiffContextDialog" timestamp="1602585271694">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -203,9 +194,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602648621466" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602585295130">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602666059835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602585295130" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602666059835" />
   </component>
 </project>
