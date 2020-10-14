@@ -132,7 +132,7 @@
       <updated>1602586826312</updated>
       <workItem from="1602586827333" duration="2085000" />
       <workItem from="1602589160933" duration="2709000" />
-      <workItem from="1602648625231" duration="4243000" />
+      <workItem from="1602648625231" duration="4607000" />
     </task>
     <task id="LOCAL-00001" summary="EJS implementation">
       <created>1602590115419</created>
@@ -163,10 +163,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="EJS implementation" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602590111149">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602652633208">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602590111149" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602652633208" />
     <state width="1285" height="175" key="GridCell.Tab.0.bottom" timestamp="1602587209144">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
@@ -187,10 +187,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602590024236" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602590129371">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602652868011">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602590129371" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602652868011" />
     <state x="452" y="258" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602590069435">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
