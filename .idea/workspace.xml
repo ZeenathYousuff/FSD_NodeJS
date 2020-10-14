@@ -61,6 +61,8 @@
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PUG_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PUG_Assignment/views/404.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/views/404.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PUG_Assignment/views/name.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/views/name.pug" afterDir="false" />
@@ -78,6 +80,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -90,11 +99,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.12.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.11.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -102,6 +116,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZeenathMY\WebstormProjects\Implementing-ejs\" />
+      <recent name="C:\Users\ZeenathMY\WebstormProjects\Implementing-ejs\views" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -115,8 +131,24 @@
       <option name="presentableId" value="Default" />
       <updated>1602586826312</updated>
       <workItem from="1602586827333" duration="2085000" />
-      <workItem from="1602589160933" duration="862000" />
+      <workItem from="1602589160933" duration="2709000" />
+      <workItem from="1602648625231" duration="4243000" />
     </task>
+    <task id="LOCAL-00001" summary="EJS implementation">
+      <created>1602590115419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602590115419</updated>
+    </task>
+    <task id="LOCAL-00002" summary="EJS implementation">
+      <created>1602652634547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602652634547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,8 +159,14 @@
       <path value="$PROJECT_DIR$/.." />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="EJS implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="EJS implementation" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602590111149">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602590111149" />
     <state width="1285" height="175" key="GridCell.Tab.0.bottom" timestamp="1602587209144">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
@@ -149,9 +187,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602590024236" />
-    <state x="505" y="308" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602588896401">
-      <screen x="35" y="27" width="1331" height="741" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602590129371">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602590129371" />
+    <state x="452" y="258" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602590069435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="258" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602590069435" />
     <state x="505" y="308" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog/35.27.1331.741@35.27.1331.741" timestamp="1602588896401" />
   </component>
 </project>
