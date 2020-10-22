@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var uuid_1 = require("uuid");
+var RegularEmployee_1 = require("./RegularEmployee");
+var Consultant_1 = require("./Consultant");
+var emp1 = new RegularEmployee_1.RegularEmployee(uuid_1.v4(), 'Zeenath', "iOS", "Developer", 10000);
+emp1.salaryVal = 10000;
+emp1.createEmployee(uuid_1.v4(), 'Zeenath', "iOS", "Developer");
+emp1.displayEmpDetails();
+var emp2 = new Consultant_1.Consultant(uuid_1.v4(), 'Zeenath', "iOS", "Developer", 500, 0);
+emp2.hourlyRateVal = 500;
+emp2.createEmployee(uuid_1.v4(), 'Zeenath', "iOS", "Developer");
+emp2.displayEmpDetails();

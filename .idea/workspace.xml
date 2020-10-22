@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95c98e70-379f-45a3-84d0-bf54b023d32e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/01-10-2020-NodeJSHTTP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-10-2020-NodeJSHTTP/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/Exercise1-Movie_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Express_Routing_Demo/.idea/Express_Routing_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Express_Routing_Demo/routes/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Express_Routing_Demo/routes/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Express_Routing_Demo/views/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/controllers/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/controllers/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/data/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/models/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/public/images/homeIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/routes/deleteProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/routes/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/views - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/views/deleteProduct.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/views/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/views/includes/end.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/views/includes/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Implementing-ejs/views/includes/nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJSLib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NodeJS_1-10-2020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PUG_Assignment/routes/deleteUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PUG_Assignment/views/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PUG_Assignment/views/layouts/main-layout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PUG_Assignment/views/name.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PUG_Assignment/views/user.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pixogram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Routing_Demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleNodeJS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleRegistration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/Server_App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server_App/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/javascripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/typescripts/Customer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/typescripts/CustomerType.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/typescripts/ReguarCustomer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/typescripts/ToDo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/typescripts/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/typescripts/reviews.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/typescripts/sports.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypeScript_22-10-2020/typescripts/variable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Consultant.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployeeDashboard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularEmployee.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Specialization.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadImageSample/pixogram/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadImageSample/pixogram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadImageSample/pixogram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/models/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/routes/images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/routes/videos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/utility/uploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/views/media/images.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadingSample/views/media/videos.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employeeApp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/server_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_application/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adding_Middleware" beforeDir="false" afterPath="$PROJECT_DIR$/../Adding_Middleware" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer_API_Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer_API_Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer_API_Exercise/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer_API_Exercise/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer_API_Exercise/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer_API_Exercise/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer_API_Exercise/routes/customer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer_API_Exercise/routes/customer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise1-Movie_api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise1-Movie_api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Express_Routing_Demo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/route/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/route/shop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/views/add-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Express_Routing_Demo/views/add-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Express_Routing_Demo/views/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Express_Routing_Demo/views/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Form_Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/lib/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/lib/ref.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/lib/schemas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/node_modules/joi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generes_EndPoint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Generes_EndPoint/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Implementing-ejs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Implementing-ejs/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Implementing-ejs/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Implementing-ejs/routes/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/routes/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Implementing-ejs/routes/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/routes/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Implementing-ejs/views/404.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/views/404.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Implementing-ejs/views/add-product.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/views/add-product.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Implementing-ejs/views/shop.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../Implementing-ejs/views/shop.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/routes/name.js" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/routes/name.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/routes/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/routes/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/views/404.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/views/404.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PUG_Assignment/views/name.pug" beforeDir="false" afterPath="$PROJECT_DIR$/../PUG_Assignment/views/name.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodeCast_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PodeCast_Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing_GET_POST_Demo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vidly_Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vidly_Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_Assignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongoDB_practice_09-10-2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoDB_practice_09-10-2020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongoose_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mongoose_demo/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jEFXFcSjgwlRPdvxWRaUTlufVw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95c98e70-379f-45a3-84d0-bf54b023d32e" name="Default Changelist" comment="" />
+      <created>1603361381520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603361381520</updated>
+      <workItem from="1603361382622" duration="4143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/RegularEmployee.js" />
+        <option value="$PROJECT_DIR$/Employee.js" />
+        <option value="$PROJECT_DIR$/EmployeeDashboard.js" />
+        <option value="$PROJECT_DIR$/Consultant.js" />
+        <option value="$PROJECT_DIR$/Specialization.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1603361965817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1603361965817" />
+  </component>
+</project>
